@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JikanAPI_JoseSaidCastillo_n20231900147": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
